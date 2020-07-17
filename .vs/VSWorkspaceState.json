@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\controllers",
+    "\\models",
+    "\\routes",
+    "\\views",
+    "\\views\\pages",
+    "\\views\\partials",
+    "\\views\\plans",
+    "\\views\\sessions",
+    "\\views\\users"
+  ],
+  "PreviewInSolutionExplorer": false
+}
